@@ -1,0 +1,1167 @@
+﻿#EXTM3U
+#EXTINF:-1  tvg-name="AccuWeatherNOW.us@SD" tvg-id="AccuWeatherNOW.us@SD",AccuWeather Now (1080p) [Geo-blocked]
+https://amg00684-accuweather-accuweather-rokuus-0endj.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="AFVEspanol.us@SD" tvg-id="AFVEspanol.us@SD",AFV en Español (720p) [Not 24/7]
+https://linear-46.frequency.stream/dist/roku/46/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-name="AntiquesRoadshowUK.us@SD" tvg-id="AntiquesRoadshowUK.us@SD",Antiques Roadshow UK (1080p)
+https://bbc-antiquesroadshowuk-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Axe Men (1080p)
+https://335e33e2.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9BeE1lbl9ITFM/playlist.m3u8
+#EXTINF:-1  tvg-name="BabySharkTV.us@SD" tvg-id="BabySharkTV.us@SD",Baby Shark TV (1080p)
+https://newidco-babysharktv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Baywatch.us@US" tvg-id="Baywatch.us@US",Baywatch (1080p) [Geo-blocked]
+https://amg00145-buzzr-bigballs-baywatch-rokuus-qq7iy.amagi.tv/playlist/amg00145-buzzr-bigballs-baywatch-rokuus/playlist.m3u8
+#EXTINF:-1  tvg-name="DoctorWhoClassic.us@US" tvg-id="DoctorWhoClassic.us@US",BBC Doctor Who Classic (1080p)
+https://bbc-classicdrwho-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Cinevault80s.us@SD" tvg-id="Cinevault80s.us@SD",Cinevault 80s (540p) [Geo-blocked]
+https://gsn-cinevault-80s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Cinevault Classics (540p)
+https://gsn-cinevault-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Cinevault Murder and Mayhem (540p)
+https://gsn-cinevault-70s-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="CinevaultWesterns.us@SD" tvg-id="CinevaultWesterns.us@SD",Cinevault Westerns (540p) [Geo-blocked]
+https://gsn-cinevault-westerns-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Circle.us@SD" tvg-id="Circle.us@SD",Circle (1080p)
+https://circle-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Crime360.us@SD" tvg-id="Crime360.us@SD",Crime360 (1080p)
+https://eb3933ec.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZTM2MF9ITFM/playlist.m3u8
+#EXTINF:-1 ,Crime Thrill Her (1080p)
+https://8c4e8f4f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9DcmltZVRocmlsbEhlcl9ITFM/playlist.m3u8
+#EXTINF:-1 ,Dealzone (1080p)
+https://c86bc87f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9EZWFsWm9uZV9ITFM/playlist.m3u8
+#EXTINF:-1  tvg-name="EstrellaNews.us@SD" tvg-id="EstrellaNews.us@SD",Estrella News (1080p)
+https://estrellanews-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="EstrellaTV.us@SD" tvg-id="EstrellaTV.us@SD",Estrella TV East (1080p)
+https://estrellatv-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="FoxWeather.us@SD" tvg-id="FoxWeather.us@SD",FOX Weather (1080p) [Geo-blocked]
+https://amg01542-foxweatherllc-foxweather-rokuus-e6l7m.amagi.tv/playlist/amg01542-foxweatherllc-foxweather-rokuus/playlist.m3u8
+#EXTINF:-1  tvg-name="HomeMadeNation.us@SD" tvg-id="HomeMadeNation.us@SD",Home.Made.Nation (1080p)
+https://3238c44f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9MaXZlbHlQbGFjZV9ITFM/playlist.m3u8
+#EXTINF:-1 ,Ice Road Truckers (1080p)
+https://3787c49a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9JY2VSb2FkVHJ1Y2tlcnNfSExT/playlist.m3u8
+#EXTINF:-1  tvg-name="ImpossibleQuizShow.us@SD" tvg-id="ImpossibleQuizShow.us@SD",Impossible Quiz Show (1080p)
+https://bbc-impossible-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="KidsPangTV.us@SD" tvg-id="KidsPangTV.us@SD",Kids Pang TV (1080p)
+https://newidco-kidspangtv-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Kriminal (1080p)
+https://44abd74d.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9LcmltaW5hbF9ITFM/playlist.m3u8
+#EXTINF:-1 ,Lifetime Holiday Favourites (1080p)
+https://9fa8bd65.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ib2xpZGF5TW92aWVGYXZvcml0ZXNieUxpZmV0aW1lX0hMUw/playlist.m3u8
+#EXTINF:-1  tvg-name="MaverickBlackCinema.us@SD" tvg-id="MaverickBlackCinema.us@SD",Maverick Black Cinema (1080p)
+https://maverick-maverick-black-cinema-3-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="MidsomerMurders.us@SD" tvg-id="MidsomerMurders.us@SD",Midsomer Murders (1080p)
+https://all3media-midsomer-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1 ,Modern Marvels (1080p)
+https://277b8244.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Nb2Rlcm5NYXJ2ZWxzX0hMUw/playlist.m3u8
+#EXTINF:-1  tvg-name="MoonbugKids.uk@SD",Moonbug Kids (1080p)
+https://moonbug-rokuus.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="MST3K.us@US",MST3K (1080p)
+https://mst3k-roku.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Newsmax2.us@SD",Newsmax 2 (1080p) [Geo-blocked]
+https://amg00217-newsmax-newsmax-rokuus-dur76.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="OneAmericaNewsNetwork.us@SD",OAN (1080p)
+https://oneamericanews-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="OutsideTV.us@SD",Outside TV (1080p) [Geo-blocked]
+https://outsidetv-outsidetv-mgsp6.amagi.tv/playlist/outsidetv-outsidetv/playlist.m3u8
+#EXTINF:-1  tvg-name="Pac12Insider.us@SD",Pac 12 Insider (1080p)
+https://pac12-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Perform (1080p)",Perform (1080p)
+https://4a72da62.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9QZXJmb3JtX0hMUw/playlist.m3u8
+#EXTINF:-1  tvg-name="RakutenViki.us@US",Rakuten Viki (1080p)
+https://newidco-rakutenviki-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="RCNMas.co@SD",RCN Mas
+https://rcntv-rcnmas-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Real Crime (1080p) [Geo-blocked]",Real Crime (1080p) [Geo-blocked]
+https://d1qznhvm4vjve7.cloudfront.net/playlist.m3u8
+#EXTINF:-1  tvg-name="RuntimeEspanol.us@SD",Runtime Espanol (720p)
+https://run-rt-uh-roku.otteravision.com/run/rt_uh/rt_uh.m3u8
+#EXTINF:-1  tvg-name="SamuelGoldwynClassics.us@SD",Samuel Goldwyn Classics (1080p)
+https://samuelgoldwyn-classics-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Samuel Goldwyn Films (1080p)",Samuel Goldwyn Films (1080p)
+https://samuelgoldwyn-films-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="SparkTV.uk@SD",Spark TV (1080p)
+https://candlelightmedia-sparklightlove-4-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Spark TV Luz & Amor (1080p)",Spark TV Luz & Amor (1080p)
+https://candlelightmedia-sparklightlove-6-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="SuperSimpleSongs.us@SD",Super Simple Songs (1080p)
+https://janson-supersimplesongs-1-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="Supermarket Sweep (1080p) [Geo-blocked]",Supermarket Sweep (1080p) [Geo-blocked]
+https://amg00145-buzzr-bigballs-supermarket-rokuus-iqx8g.amagi.tv/playlist/amg00145-buzzr-bigballs-supermarket-rokuus/playlist.m3u8
+#EXTINF:-1  tvg-name="SwerveSports.us@SD",Swerve Combat (1080p)
+https://linear-253.frequency.stream/mt/roku/253/hls/master/playlist.m3u8
+#EXTINF:-1  tvg-name="ThePriceIsRightTheBarkerEra.us@SD",The Price Is Right: The Barker Era (1080p) [Geo-blocked]
+https://amg00145-buzzr-bigballs-tpir-8min-rokuus-otcre.amagi.tv/playlist/amg00145-buzzr-bigballs-tpir-8min-rokuus/playlist.m3u8
+#EXTINF:-1  tvg-name="ThisOldHouse.us@SD",This Old House (1080p)
+https://thisoldhouse-2-us.roku.wurl.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="TinyHouseNation.us@SD",Tiny House Nation (1080p)
+https://6df6888a.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9UaW55SG91c2VOYXRpb25fSExT/playlist.m3u8
+#EXTINF:-1  tvg-name="Torque (1080p)",Torque (1080p)
+https://df7ed838.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ub3JxdWVfSExT/playlist.m3u8
+#EXTINF:-1  tvg-name="UnXplained (1080p)",UnXplained (1080p)
+https://5f8e578f.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9VblhwbGFpbmVkWm9uZV9ITFM/playlist.m3u8
+#EXTINF:-1  tvg-name="Xtreme Outdoors (1080p)",Xtreme Outdoors (1080p)
+https://9bd99d43.wurl.com/master/f36d25e7e52f1ba8d7e56eb859c636563214f541/Um9rdV9Ta2lsbHNBbmRUaHJpbGxzX0hMUw/playlist.m3u8
+#EXTINF:-1  tvg-name="YahooFinance.us@SD",Yahoo! Finance (1080p)
+https://yahoo-roku-us.amagi.tv/playlist.m3u8
+#EXTINF:-1  tvg-name="AlJazeera.qa@Arabic",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+#EXTINF:-1  tvg-name="AlJazeera.qa@English",Al Jazeera English
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1  tvg-name="ArirangTV.kr@HD",Arirang TV HD
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1  tvg-name="Armenia1.am@SD",Armenia 1
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:-1  tvg-name="arte.de@HD",arte HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1  tvg-name="BBCNews.uk@Europe",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1  tvg-name="BRFernsehen.de@Sud",BR Fernsehen Sud
+https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CCTV4Europe.cn@SD",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTN.cn@SD",CGTN
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNArabic.cn@SD",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNDocumentary.cn@SD",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNFrench.cn@SD",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNRussian.cn@SD",CGTN Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNSpanish.cn@SD",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CT24.cz@SD",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1  tvg-name="EnglishClubTV.uk@SD",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-name="EspresoTV.ua@SD",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1  tvg-name="EuronewsEnglish.fr@HD",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1  tvg-name="EWTN.de@SD",EWTN
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="France24.fr@French",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1  tvg-name="France24.fr@English",France 24 English
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1  tvg-name="FREEDOM.ua@SD",FREEDOM
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1  tvg-name="hrfernsehen.de@HD",hr-fernsehen HD
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="kabeleins.de@SD",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="KiKA.de@HD",KiKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="MDRFernsehen.de@Thuringen",MDR Fernsehen Thuringen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="NDRFernsehenInternational.de@SD",NDR Fernsehen International
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="NewsmaxTV.us@SD",Newsmax TV
+https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
+#EXTINF:-1  tvg-name="NZTV.sk@SD",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1  tvg-name="ORF2.at@SD",ORF 2
+https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="PolarTV.cz@SD",Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="ProSieben.de@SD",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="Rai1.it@SD",Rai 1 (720p)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="Rai3.it@HD",Rai 3 (720p)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="rbbFernsehen.de@SD",rbb Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="RegioTV.sk@SD",Regio TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1  tvg-name="SAT1Gold.de@SD",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="SilkWay.kz@SD",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="sixx.de@SD",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="TRTWorld.tr@HD",TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="TV8.sk@SD",TV8
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1  tvg-name="TV9.sk@SD",TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1  tvg-name="TVCentral.sk@SD",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1  tvg-name="TVLocAll.sk@SD",TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1  tvg-name="TVMistral.sk@SD",TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="TVNitricka.sk@SD",TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1  tvg-name="TVSLO1.si@HD",TV SLO 1 HD
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="TVSLO2.si@HD",TV SLO 2 HD
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="TVVita.sk@SD",TV Vita
+https://dash3.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1  tvg-name="TVPInfo.pl@SD",TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1  tvg-name="TVPPolonia.pl@SD",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1  tvg-name="TVPWorld.pl@SD",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1  tvg-name="WDRFernsehen.de@Koln",WDR Fernsehen
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="ZapadoslovenskaTV.sk@SD",Zapadoslovenska TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1  tvg-name="CurrentTimeTV.cz@SD",Настоящее время
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="AlJazeera.qa@Arabic",Al Jazeera
+https://dash4.antik.sk/live/test_aljazeera/playlist.m3u8
+#EXTINF:-1  tvg-name="AlJazeera.qa@English",Al Jazeera English
+https://dash4.antik.sk/live/test_aljazeera_eng/playlist.m3u8
+#EXTINF:-1  tvg-name="ArirangTV.kr@HD",Arirang TV HD
+https://dash3.antik.sk/live/test_arirang/playlist.m3u8
+#EXTINF:-1  tvg-name="Armenia1.am@SD",Armenia 1
+https://dash2.antik.sk/live/test_armenia/playlist.m3u8
+#EXTINF:-1  tvg-name="arte.de@HD",arte HD
+https://dash4.antik.sk/live/test_arte_avc_25p/playlist.m3u8
+#EXTINF:-1  tvg-name="BBCNews.uk@Europe",BBC News Europe
+https://dash2.antik.sk/live/test_bbc_world/playlist.m3u8
+#EXTINF:-1  tvg-name="BRFernsehen.de@Sud",BR Fernsehen Sud
+https://dash2.antik.sk/live/test_br_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CCTV4Europe.cn@SD",CCTV-4 Europe
+https://dash2.antik.sk/live/test_cctv_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTN.cn@SD",CGTN
+https://dash4.antik.sk/live/test_cgtn/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNArabic.cn@SD",CGTN Arabic
+https://dash3.antik.sk/live/test_cgtn_arb_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNDocumentary.cn@SD",CGTN Documentary
+https://dash3.antik.sk/live/test_cgtn_doc/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNFrench.cn@SD",CGTN French
+https://dash4.antik.sk/live/test_cgtn_fra_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNRussian.cn@SD",CGTN Russian
+https://dash3.antik.sk/live/test_cgtn_rus_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CGTNSpanish.cn@SD",CGTN Spanish
+https://dash4.antik.sk/live/test_cgtn_esp_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="CT24.cz@SD",CT24
+https://dash2.antik.sk/live/ct24_avc_25p/playlist.m3u8
+#EXTINF:-1  tvg-name="EnglishClubTV.uk@SD",English Club TV
+https://dash2.antik.sk/live/test_ectv_hd_1200/playlist.m3u8
+#EXTINF:-1  tvg-name="EspresoTV.ua@SD",Espreso TV
+https://dash4.antik.sk/live/test_espresso/playlist.m3u8
+#EXTINF:-1  tvg-name="EuronewsEnglish.fr@HD",Euronews English HD
+https://dash4.antik.sk/live/test_euronews/playlist.m3u8
+#EXTINF:-1  tvg-name="EWTN.de@SD",EWTN
+https://dash3.antik.sk/live/test_ewtn_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="France24.fr@French",France 24
+https://dash4.antik.sk/live/test_france24_france/playlist.m3u8
+#EXTINF:-1  tvg-name="France24.fr@English",France 24 English
+https://dash3.antik.sk/live/test_france24_eng/playlist.m3u8
+#EXTINF:-1  tvg-name="FREEDOM.ua@SD",FREEDOM
+https://dash2.antik.sk/live/test_uatv/playlist.m3u8
+#EXTINF:-1  tvg-name="hrfernsehen.de@HD",hr-fernsehen HD
+https://dash4.antik.sk/live/test_hr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="kabeleins.de@SD",kabel eins
+https://dash4.antik.sk/live/test_kabel_eins_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="KiKA.de@HD",KiKA HD
+https://dash4.antik.sk/live/test_kika_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="MDRFernsehen.de@Thuringen",MDR Fernsehen Thuringen
+https://dash4.antik.sk/live/test_mdr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="NDRFernsehenInternational.de@SD",NDR Fernsehen International
+https://dash3.antik.sk/live/test_ndr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="NewsmaxTV.us@SD",Newsmax TV
+https://dash3.antik.sk/live/test_newsmax_avc/playlist.m3u8
+#EXTINF:-1  tvg-name="NZTV.sk@SD",NZTV
+https://dash2.antik.sk/live/test_nove_zamky/playlist.m3u8
+#EXTINF:-1  tvg-name="ORF2.at@SD",ORF 2
+https://dash4.antik.sk/live/test_orf_zwei_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="PolarTV.cz@SD",Polar TV
+https://dash4.antik.sk/live/test_polar_tv_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="ProSieben.de@SD",ProSieben (1080p)
+https://dash4.antik.sk/live/test_pro_sieben_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="Rai1.it@SD",Rai 1 (720p)
+https://dash2.antik.sk/live/test_rai_uno_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="Rai3.it@HD",Rai 3 (720p)
+https://dash2.antik.sk/live/test_rai_tre_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="rbbFernsehen.de@SD",rbb Fernsehen
+https://dash2.antik.sk/live/test_rbb_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="RegioTV.sk@SD",Regio TV
+https://dash2.antik.sk/live/test_regio_tv/playlist.m3u8
+#EXTINF:-1  tvg-name="SAT1Gold.de@SD",SAT.1 Gold (576p)
+https://dash4.antik.sk/live/test_sat_eins_gold_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="SilkWay.kz@SD",Silk Way
+https://dash2.antik.sk/live/test_qazaq_tv_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="sixx.de@SD",sixx
+https://dash4.antik.sk/live/test_sixx_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="TRTWorld.tr@HD",TRT World HD
+https://dash2.antik.sk/live/test_trt_world_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="TV8.sk@SD",TV8
+https://dash3.antik.sk/live/test_osem/playlist.m3u8
+#EXTINF:-1  tvg-name="TV9.sk@SD",TV9
+https://dash4.antik.sk/live/test_tv9/playlist.m3u8
+#EXTINF:-1  tvg-name="TVCentral.sk@SD",TV Central
+https://dash4.antik.sk/live/test_central/playlist.m3u8
+#EXTINF:-1  tvg-name="TVLocAll.sk@SD",TV LocAll
+https://dash3.antik.sk/live/test_locall/playlist.m3u8
+#EXTINF:-1  tvg-name="TVMistral.sk@SD",TV Mistral
+https://dash3.antik.sk/live/test_mistral_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="TVNitricka.sk@SD",TV Nitricka
+https://dash4.antik.sk/live/test_nitricka/playlist.m3u8
+#EXTINF:-1  tvg-name="TVSLO1.si@HD",TV SLO 1 HD
+https://dash2.antik.sk/live/test_slo1_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="TVSLO2.si@HD",TV SLO 2 HD
+https://dash2.antik.sk/live/test_slo2_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="TVVita.sk@SD",TV Vita
+https://dash3.antik.sk/live/test_vita/playlist.m3u8
+#EXTINF:-1  tvg-name="TVPInfo.pl@SD",TVP Info
+https://dash4.antik.sk/live/test_tvp_info/playlist.m3u8
+#EXTINF:-1  tvg-name="TVPPolonia.pl@SD",TVP Polonia
+https://dash2.antik.sk/live/test_tvp_polonia/playlist.m3u8
+#EXTINF:-1  tvg-name="TVPWorld.pl@SD",TVP World
+https://dash2.antik.sk/live/test_tvp_world/playlist.m3u8
+#EXTINF:-1  tvg-name="WDRFernsehen.de@Koln",WDR Fernsehen
+https://dash3.antik.sk/live/test_wdr_tizen/playlist.m3u8
+#EXTINF:-1  tvg-name="ZapadoslovenskaTV.sk@SD",Zapadoslovenska TV
+https://dash2.antik.sk/live/test_zapadoslovenska/playlist.m3u8
+#EXTINF:-1  tvg-name="CurrentTimeTV.cz@SD",Настоящее время
+https://dash3.antik.sk/live/test_current_time_atktv/playlist.m3u8
+#EXTINF:-1  tvg-name="StingrayHolidayscapes.ca@HD",Stingray Holidayscapes (1080p)
+https://plextv.ott-channels.stingray.com/holidayscapes/master.m3u8
+#EXTINF:-1  tvg-name="QelloConcertsbyStingray.ca@SD",Qello Concerts by Stingray (1080p)
+https://lotus.stingray.com/manifest/qello-qello001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayClassicRock.ca@SD",Stingray Classic Rock (1080p)
+https://lotus.stingray.com/manifest/ose-101ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayClassica.ca@SD",Stingray Classica (1080p)
+https://lotus.stingray.com/manifest/classica-cla008-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayCMusic.ca@SD",Stingray CMusic (1080p)
+https://lotus.stingray.com/manifest/cmusic-cme004-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayDJAZZ.ca@SD",Stingray DJAZZ (1080p)
+https://lotus.stingray.com/manifest/djazz-djaads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayEasyListening.ca@SD",Stingray Easy Listening (1080p)
+https://lotus.stingray.com/manifest/ose-137ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayEuroHits.ca@SD",Stingray Euro Hits (1080p)
+https://lotus.stingray.com/manifest/ose-214ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayFlashback70s.ca@SD",Stingray Flashback 70s (1080p)
+https://lotus.stingray.com/manifest/ose-115ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayGreatestHits.ca@SD",Stingray Greatest Hits (1080p)
+https://lotus.stingray.com/manifest/ose-155ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayHitList.ca@SD",Stingray Hit List (1080p)
+https://lotus.stingray.com/manifest/ose-107ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Holidayscapes (1080p)",Stingray Holidayscapes (1080p)
+https://d10cyxntpn0bwm.cloudfront.net/master.m3u8
+#EXTINF:-1  tvg-name="StingrayHotCountry.ca@SD",Stingray Hot Country (1080p)
+https://lotus.stingray.com/manifest/ose-108ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayJukeboxOldies.ca@SD",Stingray Jukebox Oldies (1080p)
+https://lotus.stingray.com/manifest/ose-021ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayKaraoke.ca@SD",Stingray Karaoke (1080p)
+https://lotus.stingray.com/manifest/karaoke-kar000-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayNaturescape.ca@SD",Stingray Naturescape (1080p)
+https://lotus.stingray.com/manifest/naturescape-a003-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayNothinBut90s.ca@SD",Stingray Nothin' But 90s (1080p)
+https://lotus.stingray.com/manifest/ose-142ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayPopAdult.ca@SD",Stingray Pop Adult (1080p)
+https://lotus.stingray.com/manifest/ose-104ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayEverything80s.ca@SD",Stingray Remember the 80s (1080p)
+https://lotus.stingray.com/manifest/ose-128ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayRockAlternative.ca@SD",Stingray Rock Alternative (1080p)
+https://lotus.stingray.com/manifest/ose-102ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayRomanceLatino.ca@SD",Stingray Romance Latino (1080p)
+https://lotus.stingray.com/manifest/ose-202ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingraySmoothJazz.ca@SD",Stingray Smooth Jazz (1080p)
+https://lotus.stingray.com/manifest/ose-140ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray Soft Hits (1080p)",Stingray Soft Hits (1080p)
+https://lotus.stingray.com/manifest/ose-237ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingraySoulStorm.ca@SD",Stingray Soul Storm (1080p)
+https://lotus.stingray.com/manifest/ose-134ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayTheSpa.ca@SD",Stingray The Spa (1080p)
+https://lotus.stingray.com/manifest/ose-122ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayTodaysKPop.ca@SD",Stingray Today's KPOP (1080p)
+https://lotus.stingray.com/manifest/ose-317ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayTodaysLatinPop.ca@SD",Stingray Today's Latin Pop (1080p)
+https://lotus.stingray.com/manifest/ose-190ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="StingrayUrbanBeat.ca@SD",Stingray Urban Beat (1080p)
+https://lotus.stingray.com/manifest/ose-133ads-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  tvg-name="Stingray ZenLIFE (1080p)",Stingray ZenLIFE (1080p)
+https://lotus.stingray.com/manifest/zenlife-zen001-montreal/samsungtvplus/master.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/kanalyek.png" tvg-name="Channel One",کانال یک
+https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/revolutiontv.jpg" tvg-name="Revolution TV",ایران ملی Revolution
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/melligtv.jpg" tvg-name="MelliG TV",ملی گرا MelliG
+https://mellihls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" tvg-name="Novin TV",نوین
+https://stream.novin.live/hls/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/nahadeazadi.jpg" tvg-name="Nahade Azadi",نهاد آزادی
+https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/iranearyaee.jpg" tvg-name="Iran Aryaee",ایران آریایی
+https://oldkors-9u3p1.cfcross.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/dejtv.jpg" tvg-name="DEJ TV",دژ
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/iranefarda.png" tvg-name="Irane Farda",ایران فردا
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/iranindependent.jpg" tvg-name="Iran Independent",ایران مستقل
+https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/khabarbin.png" tvg-name="Khabarbin TV",خبربین
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/itn.png" tvg-name="ITN TV",ITN
+https://spf-cors-itn.cfcross.workers.dev/?url=https://livestream.5centscdn.com/tvitnweb1/145c6c9228c4d6586df49db1edf9cf4d.sdp/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/pulsemedia.jpg" tvg-name="Pulse Media",Pulse Media
+https://pulsehls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/didgahtv.png" tvg-name="Didgah TV",دیدگاه
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/israelparstv3.jpg" tvg-name="Israel Pars TV",اسرائیل پارس
+https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/projectleon.jpg" tvg-name="Project Leon",پروژه لئون
+https://pleonhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png" tvg-name="Kanal Jadid",کانال جدید
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/womantv.jpg" tvg-name="Woman TV",زن TV
+https://wmtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gordafaridtv.png" tvg-name="GordAfarid TV",گرد آفرید
+https://gatvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/mtc.jpg" tvg-name="MTC",MTC
+https://mtchls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MBC_Persia_Logo.png/320px-MBC_Persia_Logo.png" tvg-name="MBC Persia",MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/persianatv.png" tvg-name="Persiana TV",پرشیانا TV
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/persianaone.png" tvg-name="Persiana One",پرشیانا وان
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/P/persiana-family-logo-8D4E9B23F1-seeklogo.com.png" tvg-name="Persiana Family",پرشیانا خانواده
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/persianatv.png" tvg-name="Persiana Comedy",پرشیانا کمدی
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/persianatv.png" tvg-name="Persiana Fight",پرشیانا رزمی
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/highvision.jpg" tvg-name="High Vision",های ویژن
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/setarehtv.png" tvg-name="Setareh TV",ستاره
+https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/zedtvpersian.jpg" tvg-name="Zed TV",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/classictv.png" tvg-name="Classic TV",کلاسیک TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/khaterehtv.png" tvg-name="Khatereh TV",خاطره
+https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/goldstar.png" tvg-name="Goldstar TV",گلداستار
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/khalijtv.jpg" tvg-name="Khalij TV",خلیج
+https://khalijhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/arkotv.jpg" tvg-name="Arko TV",آرکو
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" tvg-name="Net TV",نت TV
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg" tvg-name="T2 TV",T2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/4u.png" tvg-name="4U TV",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/tapesh.png" tvg-name="Tapesh",تپش
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/tapesh.jpg" tvg-name="Tapesh Iran",تپش ایران
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM TV",GEM TV
+https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemseries.png" tvg-name="GEM Series",GEM Series
+https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-film-logo-9B7E3A4C21-seeklogo.com.png" tvg-name="GEM Film",GEM Film
+https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-drama-logo-7C4B2D9E31-seeklogo.com.png" tvg-name="GEM Drama",GEM Drama
+https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-classic-logo-5A8D1E7B42-seeklogo.com.png" tvg-name="GEM Classic",GEM Classic
+https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-comedy-logo-3F6C9A2D51-seeklogo.com.png" tvg-name="GEM Comedy",GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-junior-logo-8E2A4F7C63-seeklogo.com.png" tvg-name="GEM Junior",GEM Junior
+https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-kids-logo-1D5B8E3A74-seeklogo.com.png" tvg-name="GEM Kids",GEM Kids
+https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://seeklogo.com/images/G/gem-life-logo-4C7F2B9D85-seeklogo.com.png" tvg-name="GEM Life",GEM Life
+https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM River",GEM River
+https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Rubix",GEM Rubix
+https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Onyx",GEM Onyx
+https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Bollywood",GEM Bollywood
+https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Entertainment",GEM Entertainment
+https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Fit",GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Nature",GEM Nature
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Food",GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/pmc.png" tvg-name="PMC",PMC
+https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/pmcroyale.png" tvg-name="PMC Royale",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/rjtv.png" tvg-name="Radio Javan TV",رادیو جوان TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/avang.png" tvg-name="Avang TV",آوانگ
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/navahang.png" tvg-name="Navahang TV",نواهنگ
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/sunmusic.png" tvg-name="Sun Music",سان موزیک
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/persianamusictv.png" tvg-name="Persiana Music",پرشیانا موزیک
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Press_TV_logo.svg/320px-Press_TV_logo.svg.png" tvg-name="Press TV",پرس TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" tvg-name="iFilm Farsi",آی‌فیلم فارسی
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" tvg-name="iFilm English",آی‌فیلم انگلیسی
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" tvg-name="iFilm Arabic",آی‌فیلم عربی
+https://live.presstv.ir/hls/ifilmar.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/320px-BBC_News_2019.svg.png" tvg-name="BBC News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Al_Jazeera_English_Logo.png/320px-Al_Jazeera_English_Logo.png" tvg-name="Aljazeera English",الجزیره انگلیسی
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/France_24_logo_2011.svg/320px-France_24_logo_2011.svg.png" tvg-name="France 24 EN",France 24 انگلیسی
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/France_24_logo_2011.svg/320px-France_24_logo_2011.svg.png" tvg-name="France 24 FR",France 24 فرانسوی
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/CBS_News_logo.svg/320px-CBS_News_logo.svg.png" tvg-name="CBS News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABC_News_logo.svg/320px-ABC_News_logo.svg.png" tvg-name="ABC News",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bloomberg_logo.svg/320px-Bloomberg_logo.svg.png" tvg-name="Bloomberg",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Newsmax_TV_logo.svg/320px-Newsmax_TV_logo.svg.png" tvg-name="Newsmax TV",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RT_logo.svg/320px-RT_logo.svg.png" tvg-name="Russia Today",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TRT_World_logo.svg/320px-TRT_World_logo.svg.png" tvg-name="TRT World",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/WION_logo.png/320px-WION_logo.png" tvg-name="WION",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/NHK_World_logo.svg/320px-NHK_World_logo.svg.png" tvg-name="NHK World",NHK World
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arirang_TV_logo.svg/320px-Arirang_TV_logo.svg.png" tvg-name="Arirang TV",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/CGTN_logo_new.svg/320px-CGTN_logo_new.svg.png" tvg-name="CGTN English",CGTN English
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3b/Euronews_logo_2022.svg/320px-Euronews_logo_2022.svg.png" tvg-name="Euronews",Euronews
+https://a-cdn.klowdtv.com/live3/euronews_720p/playlist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kan_logo.svg/320px-Kan_logo.svg.png" tvg-name="Kan 11",Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Makan_33_logo.png/240px-Makan_33_logo.png" tvg-name="Makan 33",Makan 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&fmp4
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Reshet_13.svg/320px-Reshet_13.svg.png" tvg-name="Reshet 13",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/jltv.jpg" tvg-name="JLTV",JLTV - Jewish Life
+https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Channel_14_Israel_logo.svg/320px-Channel_14_Israel_logo.svg.png" tvg-name="Channel 14",Channel 14 (Israel)
+https://www.youtube.com/embed/live_stream?channel=UC-LRBEUet4xX2fRB3JitFxg
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/now14.png" tvg-name="Now 14",Now 14 (Israel)
+https://www.youtube.com/embed/live_stream?channel=UCKEImtWikw9usC1pl_9m1nQ
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fashion_TV_logo.svg/320px-Fashion_TV_logo.svg.png" tvg-name="Fashion TV",Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/worldfashion.jpg" tvg-name="World Fashion",World Fashion
+https://cdn.wfc.tv/cdn/stream-eng.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fashion_One_logo.png/240px-Fashion_One_logo.png" tvg-name="Fashion One",Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/miamitv.png" tvg-name="Miami TV",Miami TV
+https://59ec5453559f0.streamlock.net/miamitv/smil:WEB4141/chunklist.m3u8
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iran_International_logo.svg/320px-Iran_International_logo.svg.png" tvg-name="Iran International Radio",رادیو ایران اینترنشنال
+https://radio.iraninternational.app/iintl_c
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Radio_Farda_logo.png/240px-Radio_Farda_logo.png" tvg-name="Radio Farda",رادیو فردا
+https://stream.radiojar.com/cp13r2cpn3quv
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiohamrah.jpg" tvg-name="Radio Hamrah",رادیو همراه
+https://stream-148.zeno.fm/nezaycc28vzuv
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/kirn.jpg" tvg-name="KIRN 670",KIRN 670 لس‌آنجلس
+https://ice41.securenetsystems.net/KIRN
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/lprradio.jpg" tvg-name="London Persian Radio",رادیو لندن LPR
+https://free.rcast.net/247794
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radioyar.jpg" tvg-name="Radio Yar",رادیو یار
+https://shoutcast.glwiz.com/RadioYAR.mp3
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiosarcheshmeh.png" tvg-name="Radio Sarcheshmeh",رادیو سرچشمه
+https://sarcheshmeh.awsvps.com/stream
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radioshadi.png" tvg-name="Radio Shadi",رادیو شادی
+https://ice9.securenetsystems.net/SHADI
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radioshoma.png" tvg-name="Radio Shoma",رادیو شما
+https://stream.radiojar.com/rzcfw4cbsxquv
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiobamdad.jpg" tvg-name="Radio Bamdad",رادیو بامداد
+https://s3.radio.co/sd07c718f1/listen
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radionovin.png" tvg-name="Radio Novin",رادیو نوین
+https://radio.novin.live/live
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiomojde.jpg" tvg-name="Radio Mojdeh",رادیو مژده
+https://ic2326.c1261.fastserv.com/rm128
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radioshemroon.jpg" tvg-name="Radio Shemroon",رادیو شمرون
+https://s35.myradiostream.com/33640/listen.mp3
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/iraniancongress.jpg" tvg-name="Iranian Congress",کنگره ایرانیان
+https://stream.zenolive.com/kbt00r580feuv
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Radio_France_Internationale_logo.svg/320px-Radio_France_Internationale_logo.svg.png" tvg-name="RFI Farsi",RFI فرانسه فارسی
+https://rfipersan96k.ice.infomaniak.ch/rfipersan-96k.mp3
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiomahoor.png" tvg-name="Radio Mahoor",رادیو ماهور (شاعر)
+https://shoutcast.glwiz.com/shaer.mp3
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/pmcselect.jpg" tvg-name="PMC Select",PMC Select
+https://s5.radio.co/sf0a1af54c/listen
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/persianvip.jpg" tvg-name="Persian VIP",Persian VIP
+https://radio.persianvip.com:8888/
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radioparsa.png" tvg-name="Radio Parsa",رادیو پارسا
+https://parsa.awsvps.com/stream
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/mihantv.jpg" tvg-name="Radio Mihan",رادیو میهن
+https://radio.mihantv.com/mihan
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiomashruteh.jpg" tvg-name="Radio Mashruteh",رادیو مشروطه
+https://radio.cfcross.workers.dev/?url=http://mashruteh.awsvps.com:9458/stream
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiofaaz.jpg" tvg-name="Radio Faaz",رادیو فاز
+https://radio.cfcross.workers.dev/?url=http://www.radiofaaz.com:8000/radiofaaz
+#EXTINF:-1  group-title="00 - All Channels" tvg-logo="https://www.parsatv.com/index_files/channels/radiojibi.jpg" tvg-name="Radio Jibi",رادیو جیبی
+https://radiolivestream.net/listen/radio/radio.mp3
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iran_International_logo.svg/320px-Iran_International_logo.svg.png" tvg-name="Iran International",ایران اینترنشنال
+https://live.livetvstream.co.uk/LS-63503-4/index.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/BBC_Persian_logo.png/320px-BBC_Persian_logo.png" tvg-name="BBC Persian",بی‌بی‌سی فارسی
+https://vs-hls-pushb-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_persian_tv/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/Manoto_logo.svg/320px-Manoto_logo.svg.png" tvg-name="Manoto",منوتو
+https://ca-rt.onetv.app/manototv/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b4/VOA_Persian.png/320px-VOA_Persian.png" tvg-name="VOA Persian",صدای آمریکا VOA
+https://voa-ingest.akamaized.net/hls/live/2033876/tvmc07/playlist.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Radio_Farda_logo.png/240px-Radio_Farda_logo.png" tvg-name="Radio Farda TV",رادیو فردا TV
+https://rferl-ingest.akamaized.net/hls/live/2121768/tvmc01/playlist.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/parstv.png" tvg-name="Pars TV",پارس
+https://parshls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/mihantv.jpg" tvg-name="Mihan TV",میهن
+https://iptv.mihantv.com/mihantv/playlist.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/kanalyek.png" tvg-name="Channel One",کانال یک
+https://ca-rt.onetv.app:8443/ChannelOne/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/revolutiontv.jpg" tvg-name="Revolution TV",ایران ملی Revolution
+https://hls.irannrtv.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/melligtv.jpg" tvg-name="MelliG TV",ملی گرا MelliG
+https://mellihls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/novintv.png" tvg-name="Novin TV",نوین
+https://stream.novin.live/hls/playlist.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/nahadeazadi.jpg" tvg-name="Nahade Azadi",نهاد آزادی
+https://livestream.5centscdn.com/nahadeazadi/14a66ff6dca989d3a2eb0dc8cdb50892.sdp/chunks.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/iranearyaee.jpg" tvg-name="Iran Aryaee",ایران آریایی
+https://oldkors-9u3p1.cfcross.workers.dev/?url=http://iranaryaee.icdndhcp.com/iranearyaeesd/index.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/dejtv.jpg" tvg-name="DEJ TV",دژ
+https://rdejhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/iranefarda.png" tvg-name="Irane Farda",ایران فردا
+https://hls.iranfarda.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/iranindependent.jpg" tvg-name="Iran Independent",ایران مستقل
+https://ca-rt.onetv.app/hls/iranindtv/index.m3u8?token=onetv202
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/khabarbin.png" tvg-name="Khabarbin TV",خبربین
+https://khbhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/itn.png" tvg-name="ITN TV",ITN
+https://spf-cors-itn.cfcross.workers.dev/?url=https://livestream.5centscdn.com/tvitnweb1/145c6c9228c4d6586df49db1edf9cf4d.sdp/playlist.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/pulsemedia.jpg" tvg-name="Pulse Media",Pulse Media
+https://pulsehls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/didgahtv.png" tvg-name="Didgah TV",دیدگاه
+https://media.streambrothers.com:1936/8276/8276/playlist.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/israelparstv3.jpg" tvg-name="Israel Pars TV",اسرائیل پارس
+https://live.pars-israel.com/tmp_hls/iptv/index.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/projectleon.jpg" tvg-name="Project Leon",پروژه لئون
+https://pleonhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/kanaljadid.png" tvg-name="Kanal Jadid",کانال جدید
+https://kjhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/womantv.jpg" tvg-name="Woman TV",زن TV
+https://wmtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="01 - اخبار فارسی برتر" tvg-logo="https://www.parsatv.com/index_files/channels/gordafaridtv.png" tvg-name="GordAfarid TV",گرد آفرید
+https://gatvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4e/MBC_Persia_Logo.png/320px-MBC_Persia_Logo.png" tvg-name="MBC Persia",MBC Persia
+https://shd-gcp-live.edgenextcdn.net/live/bitmovin-mbc-persia/818ee8e4b592dc497608f066d825bfb4/index.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/persianatv.png" tvg-name="Persiana TV",پرشیانا TV
+https://euhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/persianaone.png" tvg-name="Persiana One",پرشیانا وان
+https://onehls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://seeklogo.com/images/P/persiana-family-logo-8D4E9B23F1-seeklogo.com.png" tvg-name="Persiana Family",پرشیانا خانواده
+https://familyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/persianatv.png" tvg-name="Persiana Comedy",پرشیانا کمدی
+https://comedyhls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/persianatv.png" tvg-name="Persiana Fight",پرشیانا رزمی
+https://fighthls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/highvision.jpg" tvg-name="High Vision",های ویژن
+https://streamer1.connectto.com/HIGHVISION_WEB_1205/playlist.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/setarehtv.png" tvg-name="Setareh TV",ستاره
+https://setarehhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/zedtvpersian.jpg" tvg-name="Zed TV",Zed TV
+https://zedhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/classictv.png" tvg-name="Classic TV",کلاسیک TV
+https://clshls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/khaterehtv.png" tvg-name="Khatereh TV",خاطره
+https://media2.streambrothers.com:19360/uxgjkvvpes/uxgjkvvpes.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/goldstar.png" tvg-name="Goldstar TV",گلداستار
+https://moviethls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/khalijtv.jpg" tvg-name="Khalij TV",خلیج
+https://khalijhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/arkotv.jpg" tvg-name="Arko TV",آرکو
+https://arkhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/nettv.png" tvg-name="Net TV",نت TV
+https://nethls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/t2tv.jpg" tvg-name="T2 TV",T2
+https://t2hls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/4u.png" tvg-name="4U TV",4U TV
+https://hls.4utv.live/hls/stream.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/tapesh.png" tvg-name="Tapesh",تپش
+https://iptv.tapesh.tv/tapesh/playlist.m3u8
+#EXTINF:-1  group-title="02 - سرگرمی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/tapesh.jpg" tvg-name="Tapesh Iran",تپش ایران
+https://iptv.tapesh.tv/tapeshiran/playlist.m3u8
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM TV",GEM TV
+https://ca-rt.onetv.app/gem/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemseries.png" tvg-name="GEM Series",GEM Series
+https://ca-rt.onetv.app/gemseries/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-film-logo-9B7E3A4C21-seeklogo.com.png" tvg-name="GEM Film",GEM Film
+https://ca-rt.onetv.app/gemfilm/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-drama-logo-7C4B2D9E31-seeklogo.com.png" tvg-name="GEM Drama",GEM Drama
+https://ca-rt.onetv.app/gemdrama/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-classic-logo-5A8D1E7B42-seeklogo.com.png" tvg-name="GEM Classic",GEM Classic
+https://ca-rt.onetv.app/gemclassic/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-comedy-logo-3F6C9A2D51-seeklogo.com.png" tvg-name="GEM Comedy",GEM Comedy
+https://ca-rt.onetv.app/gemcomedy/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-junior-logo-8E2A4F7C63-seeklogo.com.png" tvg-name="GEM Junior",GEM Junior
+https://ca-rt.onetv.app/gemjunior/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-kids-logo-1D5B8E3A74-seeklogo.com.png" tvg-name="GEM Kids",GEM Kids
+https://ca-rt.onetv.app/gemkids/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://seeklogo.com/images/G/gem-life-logo-4C7F2B9D85-seeklogo.com.png" tvg-name="GEM Life",GEM Life
+https://ca-rt.onetv.app/gemlife/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM River",GEM River
+https://ca-rt.onetv.app/gemriver/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Rubix",GEM Rubix
+https://ca-rt.onetv.app/gemrubix/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Onyx",GEM Onyx
+https://ca-rt.onetv.app/gemonyx/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Bollywood",GEM Bollywood
+https://ca-rt.onetv.app/gembollywood/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Entertainment",GEM Entertainment
+https://ca-rt.onetv.app/gementertainment/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Fit",GEM Fit
+https://ca-rt.onetv.app/gemfit/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Nature",GEM Nature
+https://ca-rt.onetv.app/gemnature/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="03 - شبکه جم" tvg-logo="https://www.parsatv.com/index_files/channels/gemtv1.png" tvg-name="GEM Food",GEM Food
+https://ca-rt.onetv.app/gemfood/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/pmc.png" tvg-name="PMC",PMC
+https://ca-rt.onetv.app:8443/PMCMusic/index-0.m3u8?token=onetv202
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/pmcroyale.png" tvg-name="PMC Royale",PMC Royale
+https://pmcrohls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/rjtv.png" tvg-name="Radio Javan TV",رادیو جوان TV
+https://rjtvhls.wns.live/hls/stream.m3u8
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/avang.png" tvg-name="Avang TV",آوانگ
+https://hls.avang.live/hls/stream.m3u8
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/navahang.png" tvg-name="Navahang TV",نواهنگ
+https://hls.navahang.live/hls/stream.m3u8
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/sunmusic.png" tvg-name="Sun Music",سان موزیک
+https://hls.sunmusic.live/hls/stream.m3u8
+#EXTINF:-1  group-title="04 - موسیقی فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/persianamusictv.png" tvg-name="Persiana Music",پرشیانا موزیک
+https://musichls.persiana.live/hls/stream.m3u8
+#EXTINF:-1  group-title="05 - IRIB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/db/Press_TV_logo.svg/320px-Press_TV_logo.svg.png" tvg-name="Press TV",پرس TV
+https://live.presstv.ir/hls/presstv.m3u8
+#EXTINF:-1  group-title="05 - IRIB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" tvg-name="iFilm Farsi",آی‌فیلم فارسی
+https://live.presstv.ir/hls/ifilmfa.m3u8
+#EXTINF:-1  group-title="05 - IRIB" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/IFilm_Logo.png/320px-IFilm_Logo.png" tvg-name="iFilm English",آی‌فیلم انگلیسی
+https://live.presstv.ir/hls/ifilmen.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/320px-BBC_News_2019.svg.png" tvg-name="BBC News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/mobile_wifi_main_hd_abr_v2.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/21/Al_Jazeera_English_Logo.png/320px-Al_Jazeera_English_Logo.png" tvg-name="Aljazeera English",الجزیره انگلیسی
+https://live-hls-web-aje-gcp.thehlive.com/AJE/index.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/France_24_logo_2011.svg/320px-France_24_logo_2011.svg.png" tvg-name="France 24 EN",France 24 انگلیسی
+https://a-cdn.klowdtv.com/live2/france24_720p/playlist.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/France_24_logo_2011.svg/320px-France_24_logo_2011.svg.png" tvg-name="France 24 FR",France 24 فرانسوی
+https://live.france24.com/hls/live/2037179/F24_FR_HI_HLS/master_2300.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/75/Deutsche_Welle_symbol_2012.svg/320px-Deutsche_Welle_symbol_2012.svg.png" tvg-name="DW News",DW News
+https://dwamdstream102.akamaized.net/hls/live/2015525/dwstream102/index.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/CBS_News_logo.svg/320px-CBS_News_logo.svg.png" tvg-name="CBS News",CBS News
+https://cbsn-us.cbsnstream.cbsnews.com/out/v1/55a8648e8f134e82a470f83d562deeca/master.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/ABC_News_logo.svg/320px-ABC_News_logo.svg.png" tvg-name="ABC News",ABC News
+https://abc-news-dmd-streams-1.akamaized.net/out/v1/701126012d044971b3fa89406a440133/index.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bloomberg_logo.svg/320px-Bloomberg_logo.svg.png" tvg-name="Bloomberg",Bloomberg
+https://liveproduseast.global.ssl.fastly.net/us/index.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Newsmax_TV_logo.svg/320px-Newsmax_TV_logo.svg.png" tvg-name="Newsmax TV",Newsmax
+https://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/RT_logo.svg/320px-RT_logo.svg.png" tvg-name="Russia Today",Russia Today
+https://rt-glb.rttv.com/dvr/rtnews/playlist.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b7/TRT_World_logo.svg/320px-TRT_World_logo.svg.png" tvg-name="TRT World",TRT World
+https://tv-trtworld.medya.trt.com.tr/master.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/WION_logo.png/320px-WION_logo.png" tvg-name="WION",WION
+https://d7x8z4yuq42qn.cloudfront.net/index_7.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/NHK_World_logo.svg/320px-NHK_World_logo.svg.png" tvg-name="NHK World",NHK World
+https://nhk.lls.pbs.org/index.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c8/Arirang_TV_logo.svg/320px-Arirang_TV_logo.svg.png" tvg-name="Arirang TV",Arirang TV
+https://amdlive-ch01-ctnd-com.akamaized.net/arirang_1ch/smil:arirang_1ch.smil/playlist.m3u8
+#EXTINF:-1  group-title="06 - اخبار جهانی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/65/CGTN_logo_new.svg/320px-CGTN_logo_new.svg.png" tvg-name="CGTN English",CGTN English
+https://english-livetx.cgtn.com/hls/yypdyyctzb_hd.m3u8
+#EXTINF:-1  group-title="07 - اسرائیل" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5f/Kan_logo.svg/320px-Kan_logo.svg.png" tvg-name="Kan 11",Kan 11
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/kan11/live.livx/playlist.m3u8?renditions&fmp4
+#EXTINF:-1  group-title="07 - اسرائیل" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Makan_33_logo.png/240px-Makan_33_logo.png" tvg-name="Makan 33",Makan 33
+https://kancdn.medonecdn.net/livehls/oil/kancdn-live/live/makan/live.livx/playlist.m3u8?renditions&fmp4
+#EXTINF:-1  group-title="07 - اسرائیل" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Reshet_13.svg/320px-Reshet_13.svg.png" tvg-name="Reshet 13",Reshet 13
+https://d2xg1g9o5vns8m.cloudfront.net/out/v1/0855d703f7d5436fae6a9c7ce8ca5075/index.m3u8
+#EXTINF:-1  group-title="07 - اسرائیل" tvg-logo="https://www.parsatv.com/index_files/channels/jltv.jpg" tvg-name="JLTV",JLTV - Jewish Life
+https://jlt-jltv-stirr.otteravision.com/jlt/jltv/jltv.m3u8
+#EXTINF:-1  group-title="07 - اسرائیل" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/eb/Channel_14_Israel_logo.svg/320px-Channel_14_Israel_logo.svg.png" tvg-name="Channel 14",Channel 14 (Israel)
+https://www.youtube.com/embed/live_stream?channel=UC-LRBEUet4xX2fRB3JitFxg
+#EXTINF:-1  group-title="08 - فشن" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Fashion_TV_logo.svg/320px-Fashion_TV_logo.svg.png" tvg-name="Fashion TV",Fashion TV
+https://ftv1.b-cdn.net/bfdbb576-83f7-11f0-9f89-0200170e3e04_1000028043_HLS/manifest.m3u8
+#EXTINF:-1  group-title="08 - فشن" tvg-logo="https://www.parsatv.com/index_files/channels/worldfashion.jpg" tvg-name="World Fashion",World Fashion
+https://cdn.wfc.tv/cdn/stream-eng.m3u8
+#EXTINF:-1  group-title="08 - فشن" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/Fashion_One_logo.png/240px-Fashion_One_logo.png" tvg-name="Fashion One",Fashion One
+https://b01c02nl.mediatriple.net/videoonlylive/mtkgeuihrlfwlive/broadcast_5c9e2ee690051.smil/chunklist.m3u8
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8e/Iran_International_logo.svg/320px-Iran_International_logo.svg.png" tvg-name="Iran International Radio",رادیو ایران اینترنشنال
+https://radio.iraninternational.app/iintl_c
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6f/Radio_Farda_logo.png/240px-Radio_Farda_logo.png" tvg-name="Radio Farda",رادیو فردا
+https://stream.radiojar.com/cp13r2cpn3quv
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiohamrah.jpg" tvg-name="Radio Hamrah",رادیو همراه
+https://stream-148.zeno.fm/nezaycc28vzuv
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/kirn.jpg" tvg-name="KIRN 670",KIRN 670 لس‌آنجلس
+https://ice41.securenetsystems.net/KIRN
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/lprradio.jpg" tvg-name="London Persian Radio",رادیو لندن LPR
+https://free.rcast.net/247794
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radioyar.jpg" tvg-name="Radio Yar",رادیو یار
+https://shoutcast.glwiz.com/RadioYAR.mp3
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiosarcheshmeh.png" tvg-name="Radio Sarcheshmeh",رادیو سرچشمه
+https://sarcheshmeh.awsvps.com/stream
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radioshadi.png" tvg-name="Radio Shadi",رادیو شادی
+https://ice9.securenetsystems.net/SHADI
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radioshoma.png" tvg-name="Radio Shoma",رادیو شما
+https://stream.radiojar.com/rzcfw4cbsxquv
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiobamdad.jpg" tvg-name="Radio Bamdad",رادیو بامداد
+https://s3.radio.co/sd07c718f1/listen
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radionovin.png" tvg-name="Radio Novin",رادیو نوین
+https://radio.novin.live/live
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiomojde.jpg" tvg-name="Radio Mojdeh",رادیو مژده
+https://ic2326.c1261.fastserv.com/rm128
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radioshemroon.jpg" tvg-name="Radio Shemroon",رادیو شمرون
+https://s35.myradiostream.com/33640/listen.mp3
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/iraniancongress.jpg" tvg-name="Iranian Congress",کنگره ایرانیان
+https://stream.zenolive.com/kbt00r580feuv
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/98/Radio_France_Internationale_logo.svg/320px-Radio_France_Internationale_logo.svg.png" tvg-name="RFI Farsi",RFI فرانسه فارسی
+https://rfipersan96k.ice.infomaniak.ch/rfipersan-96k.mp3
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiomahoor.png" tvg-name="Radio Mahoor",رادیو ماهور (شاعر)
+https://shoutcast.glwiz.com/shaer.mp3
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/pmcselect.jpg" tvg-name="PMC Select",PMC Select
+https://s5.radio.co/sf0a1af54c/listen
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/persianvip.jpg" tvg-name="Persian VIP",Persian VIP
+https://radio.persianvip.com:8888/
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radioparsa.png" tvg-name="Radio Parsa",رادیو پارسا
+https://parsa.awsvps.com/stream
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/mihantv.jpg" tvg-name="Radio Mihan",رادیو میهن
+https://radio.mihantv.com/mihan
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiomashruteh.jpg" tvg-name="Radio Mashruteh",رادیو مشروطه
+https://radio.cfcross.workers.dev/?url=http://mashruteh.awsvps.com:9458/stream
+#EXTINF:-1  group-title="09 - رادیو فارسی" tvg-logo="https://www.parsatv.com/index_files/channels/radiofaaz.jpg" tvg-name="Radio Faaz",رادیو فاز
+https://radio.cfcross.workers.dev/?url=http://www.radiofaaz.com:8000/radiofaaz
+#EXTINF:-1  group-title="10 - اخبار عربی" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Al_Arabiya_Logo.png/320px-Al_Arabiya_Logo.png" tvg-name="Al Arabiya",Al Arabiya
+https://live.alarabiya.net/alarabiapublish/alarabiya.smil/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/71/Al_Jazeera_English_channel_logo.svg/320px-Al_Jazeera_English_channel_logo.svg.png" tvg-name="Al Jazeera Arabic",Al Jazeera Arabic
+https://live-hls-web-aja.getaj.net/AJA/01.m3u8
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Al_Arabiya_Logo.png/320px-Al_Arabiya_Logo.png" tvg-name="Al Arabiya",Al Arabiya
+https://av.alarabiya.net/alarabiapublish/alarabiya_1080p/chunks.m3u8
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/BBC_News_2019.svg/320px-BBC_News_2019.svg.png" tvg-name="BBC News",BBC News
+https://vs-hls-push-ww-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_news_channel_hd/t=3840/v=pv14/b=5070016/main.m3u8
+#EXTINF:-1  group-title="Live" tvg-logo="bbc-news-north-america-hd" tvg-name="BBC News North America HD",BBC News North America HD
+https://tvpass.org/live/BBCWorldNewsNorthAmerica/sd
+#EXTINF:-1  group-title="Live" tvg-name="BBC-Earth",BBC-Earth
+https://amg00793-amg00793c6-firetv-us-4067.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="HD-Travel-TV",HD-Travel-TV
+https://rpn.bozztv.com/gusa/gusa-tvstravel/index.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="Travelxp",Travelxp
+https://27c980761ff9437d929e64647afe183a.mediatailor.us-east-1.amazonaws.com/v1/master/44f73ba4d03e9607dcd9bebdcb8494d86964f1d8/RakutenTV-eu_TravelXP/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="Total-Crime",Total-Crime
+https://aegis-cloudfront-1.tubi.video/b062c287-a170-47df-99e4-f5dcd441ee59/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-logo="Real-Crime" tvg-name="Real-Crime",Real-Crime
+https://lds-realcrimebeta-rakuten.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="True-Crime",True-Crime
+https://amg00376-magellan-amg00376c11-rakuten-us-1700.playouts.now.amagi.tv/playlist/amg00376-magellantv-truecrimenowww-rakutenus/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="Universal-Crime",Universal-Crime
+https://xumo-xumoent-vc-107-xmuvk.fast.nbcuni.com/live/master.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="True-Crime-Network",True-Crime-Network
+https://amg00979-amg00979c1-firetv-us-3622.playouts.now.amagi.tv/playlist.m3u8
+#EXTINF:-1  group-title="Live" tvg-name="Cowboy-Movie-Channel",Cowboy-Movie-Channel
+https://streams2.sofast.tv/sofastplayout/32eb332e-f644-46e5-ad91-e55ad80d14f7_0_HLS/index.m3u8
+#EXTINF:-1  group-title="Live" tvg-logo="fox-kttv-los-angeles-ca" tvg-name="FOX (KTTV) Los Angeles",FOX (KTTV) Los Angeles
+https://tvpass.org/live/fox-kttv-los-angeles-ca/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/67/Fox_News_Channel_logo.svg/320px-Fox_News_Channel_logo.svg.png" tvg-name="Fox News",Fox News
+https://tvpass.org/live/FoxNewsChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/320px-CNBC_logo.svg.png" tvg-name="CNBC USA",CNBC USA
+https://tvpass.org/live/CNBC/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b1/CNN.svg/320px-CNN.svg.png" tvg-name="CNN US",CNN US
+https://tvpass.org/live/CNN/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cbs-kcbs-los-angeles-ca" tvg-name="CBS (KCBS) Los Angeles",CBS (KCBS) Los Angeles
+https://tvpass.org/live/cbs-kcbs-los-angeles-ca/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cbs-wcbs-new-york-ny" tvg-name="CBS (WCBS) New York, NY",NY
+https://tvpass.org/live/WCBSDT1/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b5/Discovery_Channel_-_Logo_2019.svg/320px-Discovery_Channel_-_Logo_2019.svg.png" tvg-name="Discovery Channel (US) Eastern Feed",Discovery Channel (US) Eastern Feed
+https://tvpass.org/live/DiscoveryChannelEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="discovery-family-channel" tvg-name="Discovery Family Channel",Discovery Family Channel
+https://tvpass.org/live/DiscoveryFamily/sd
+#EXTINF:-1  group-title="Live" tvg-logo="discovery-life-channel" tvg-name="Discovery Life Channel",Discovery Life Channel
+https://tvpass.org/live/DiscoveryLife/sd
+#EXTINF:-1  group-title="Live" tvg-logo="science" tvg-name="Science",Science
+https://tvpass.org/live/Science/sd
+#EXTINF:-1  group-title="Live" tvg-logo="american-heroes-channel" tvg-name="American Heroes Channel",American Heroes Channel
+https://tvpass.org/live/AmericanHeroesChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="bbc-america-east" tvg-name="BBC America East",BBC America East
+https://tvpass.org/live/BBCAmericaEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/32/BET_logo_2012.svg/320px-BET_logo_2012.svg.png" tvg-name="BET Eastern Feed",BET Eastern Feed
+https://tvpass.org/live/BETEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="bet-her" tvg-name="BET Her",BET Her
+https://tvpass.org/live/BETHerEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4b/Big_Ten_Network.svg/320px-Big_Ten_Network.svg.png" tvg-name="Big Ten Network",Big Ten Network
+https://tvpass.org/live/BTN/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/5d/Bloomberg_logo.svg/320px-Bloomberg_logo.svg.png" tvg-name="Bloomberg TV USA",Bloomberg TV USA
+https://tvpass.org/live/BloombergTV/sd
+#EXTINF:-1  group-title="Live" tvg-logo="boomerang" tvg-name="Boomerang",Boomerang
+https://tvpass.org/live/Boomerang/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/56/Bravo_Logo.svg/320px-Bravo_Logo.svg.png" tvg-name="Bravo USA Eastern Feed",Bravo USA Eastern Feed
+https://tvpass.org/live/BravoEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/C-SPAN-Logo.svg/320px-C-SPAN-Logo.svg.png" tvg-name="C-SPAN",C-SPAN
+https://tvpass.org/live/CSPAN/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cspan-2" tvg-name="C-SPAN 2",C-SPAN 2
+https://tvpass.org/live/CSPAN2/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/320px-Cartoon_Network_2010_logo.svg.png" tvg-name="Cartoon Network USA Eastern Feed",Cartoon Network USA Eastern Feed
+https://tvpass.org/live/CartoonNetworkEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/CBS_Sports_Network.svg/320px-CBS_Sports_Network.svg.png" tvg-name="CBS Sports Network USA",CBS Sports Network USA
+https://tvpass.org/live/CBSSportsNetworkUSA/sd
+#EXTINF:-1  group-title="Live" tvg-logo="chicago-sports-network" tvg-name="Chicago Sports Network",Chicago Sports Network
+https://tvpass.org/live/chicago-sports-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cinemax-eastern-feed" tvg-name="Cinemax Eastern Feed",Cinemax Eastern Feed
+https://tvpass.org/live/CinemaxEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cmt-us-eastern-feed" tvg-name="CMT US Eastern Feed",CMT US Eastern Feed
+https://tvpass.org/live/CMTEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6c/Comedy_Central_2011_Logo.svg/320px-Comedy_Central_2011_Logo.svg.png" tvg-name="Comedy Central (US) Eastern Feed",Comedy Central (US) Eastern Feed
+https://tvpass.org/live/ComedyCentralEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="crime-investigation-network-usa-hd" tvg-name="Crime & Investigation Network USA HD",Crime & Investigation Network USA HD
+https://tvpass.org/live/CrimePlusInvestigation/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cw-kfmbtv2-san-diego-ca" tvg-name="CW (KFMB-TV2) San Diego",CW (KFMB-TV2) San Diego
+https://tvpass.org/live/cw-kfmbtv2-san-diego-ca/sd
+#EXTINF:-1  group-title="Live" tvg-logo="cw-wdcw-district-of-columbia" tvg-name="CW (WDCW) District of Columbia",CW (WDCW) District of Columbia
+https://tvpass.org/live/cw-wdcw-district-of-columbia/sd
+#EXTINF:-1  group-title="Live" tvg-logo="destination-america" tvg-name="Destination America",Destination America
+https://tvpass.org/live/DestinationAmerica/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Disney_Channel_logo_2019.svg/320px-Disney_Channel_logo_2019.svg.png" tvg-name="Disney Eastern Feed",Disney Eastern Feed
+https://tvpass.org/live/DisneyChannelEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="disney-junior-usa-east" tvg-name="Disney Junior USA East",Disney Junior USA East
+https://tvpass.org/live/DisneyJuniorEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="disney-xd-usa-eastern-feed" tvg-name="Disney XD USA Eastern Feed",Disney XD USA Eastern Feed
+https://tvpass.org/live/DisneyXDEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/93/E%21_logo.svg/200px-E%21_logo.svg.png" tvg-name="E! Entertainment USA Eastern Feed",E! Entertainment USA Eastern Feed
+https://tvpass.org/live/EEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/320px-ESPN_wordmark.svg.png" tvg-name="ESPN",ESPN
+https://tvpass.org/live/ESPN/sd
+#EXTINF:-1  group-title="Live" tvg-logo="espn-deportes" tvg-name="ESPN Deportes",ESPN Deportes
+https://tvpass.org/live/espn-deportes/sd
+#EXTINF:-1  group-title="Live" tvg-logo="espn-news" tvg-name="ESPN News",ESPN News
+https://tvpass.org/live/ESPNews/sd
+#EXTINF:-1  group-title="Live" tvg-logo="espn-u" tvg-name="ESPN U",ESPN U
+https://tvpass.org/live/ESPNU/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/ESPN2_logo.svg/320px-ESPN2_logo.svg.png" tvg-name="ESPN2",ESPN2
+https://tvpass.org/live/ESPN2/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Food_Network_Logo.svg/320px-Food_Network_Logo.svg.png" tvg-name="Food Network USA Eastern Feed",Food Network USA Eastern Feed
+https://tvpass.org/live/FoodNetworkEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Fox_Business_Network_logo.svg/320px-Fox_Business_Network_logo.svg.png" tvg-name="Fox Business",Fox Business
+https://tvpass.org/live/FoxBusiness/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/Fox_Sports_1_logo.svg/320px-Fox_Sports_1_logo.svg.png" tvg-name="Fox Sports 1",Fox Sports 1
+https://tvpass.org/live/FoxSports1/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d5/Fox_Sports_2_logo.svg/320px-Fox_Sports_2_logo.svg.png" tvg-name="Fox Sports 2",Fox Sports 2
+https://tvpass.org/live/FoxSports2/sd
+#EXTINF:-1  group-title="Live" tvg-logo="freeform-east-feed" tvg-name="Freeform East Feed",Freeform East Feed
+https://tvpass.org/live/FreeformEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="fuse-tv-eastern-feed" tvg-name="FUSE TV Eastern feed",FUSE TV Eastern feed
+https://tvpass.org/live/FuseEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="fx-movie-channel" tvg-name="FX Movie Channel",FX Movie Channel
+https://tvpass.org/live/FXMovieChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="fx-networks-east-coast" tvg-name="FX Networks East Coast",FX Networks East Coast
+https://tvpass.org/live/FXEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="fxx-usa-eastern" tvg-name="FXX USA Eastern",FXX USA Eastern
+https://tvpass.org/live/FXXEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="fyi-usa-eastern" tvg-name="FYI USA Eastern",FYI USA Eastern
+https://tvpass.org/live/FYIEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="game-show-network-east" tvg-name="Game Show Network East",Game Show Network East
+https://tvpass.org/live/game-show-network-east/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/Golf_Channel_Logo.svg/320px-Golf_Channel_Logo.svg.png" tvg-name="Golf Channel USA",Golf Channel USA
+https://tvpass.org/live/GolfChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/Hallmark_Channel_Logo.svg/320px-Hallmark_Channel_Logo.svg.png" tvg-name="Hallmark Eastern Feed",Hallmark Eastern Feed
+https://tvpass.org/live/HallmarkChannelEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hallmark-family-hd" tvg-name="Hallmark Family HD",Hallmark Family HD
+https://tvpass.org/live/HallmarkDrama/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hallmark-mystery-eastern-hd" tvg-name="Hallmark Mystery Eastern HD",Hallmark Mystery Eastern HD
+https://tvpass.org/live/HallmarkMoviesMysteriesEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/320px-HBO_logo.svg.png" tvg-name="HBO Eastern Feed",HBO Eastern Feed
+https://tvpass.org/live/HBOEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hbo-2-eastern-feed" tvg-name="HBO 2 Eastern Feed",HBO 2 Eastern Feed
+https://tvpass.org/live/HBO2East/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hbo-comedy-hd-east" tvg-name="HBO Comedy HD East",HBO Comedy HD East
+https://tvpass.org/live/HBOComedyEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hbo-family-eastern-feed" tvg-name="HBO Family Eastern Feed",HBO Family Eastern Feed
+https://tvpass.org/live/HBOFamilyEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hbo-signature-hbo-3-eastern" tvg-name="HBO Signature (HBO 3) Eastern",HBO Signature (HBO 3) Eastern
+https://tvpass.org/live/HBOSignatureEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="hbo-zone-hd-east" tvg-name="HBO Zone HD East",HBO Zone HD East
+https://tvpass.org/live/HBOZoneEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/09/HGTV_logo_2015.svg/320px-HGTV_logo_2015.svg.png" tvg-name="HGTV USA Eastern Feed",HGTV USA Eastern Feed
+https://tvpass.org/live/HGTVEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/The_History_Channel_logo.svg/320px-The_History_Channel_logo.svg.png" tvg-name="History Channel US Eastern Feed",History Channel US Eastern Feed
+https://tvpass.org/live/HistoryEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f7/HLN_logo.svg/320px-HLN_logo.svg.png" tvg-name="HLN",HLN
+https://tvpass.org/live/HLN/sd
+#EXTINF:-1  group-title="Live" tvg-logo="independent-film-channel-us" tvg-name="Independent Film Channel US",Independent Film Channel US
+https://tvpass.org/live/IFCEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Investigation_Discovery_logo.svg/320px-Investigation_Discovery_logo.svg.png" tvg-name="Investigation Discovery USA Eastern",Investigation Discovery USA Eastern
+https://tvpass.org/live/InvestigationDiscoveryEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="ion-eastern-feed" tvg-name="ION Eastern Feed",ION Eastern Feed
+https://tvpass.org/live/IONTVEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="lifetime-movies-east" tvg-name="Lifetime Movies East",Lifetime Movies East
+https://tvpass.org/live/LifetimeMoviesEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Lifetime_logo_2020.svg/320px-Lifetime_logo_2020.svg.png" tvg-name="Lifetime Network US Eastern Feed",Lifetime Network US Eastern Feed
+https://tvpass.org/live/LifetimeEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="logo-east" tvg-name="LOGO East",LOGO East
+https://tvpass.org/live/LogoEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="marquee-sports-network" tvg-name="Marquee Sports Network",Marquee Sports Network
+https://tvpass.org/live/marquee-sports-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="metv-toons-wjlp2-new-jersey" tvg-name="MeTV Toons (WJLP2) New Jersey",MeTV Toons (WJLP2) New Jersey
+https://tvpass.org/live/metv-toons/sd
+#EXTINF:-1  group-title="Live" tvg-logo="metv-wjlp-new-jerseynew-york" tvg-name="MeTV Wjlp New Jerseynew York",MeTV Wjlp New Jerseynew York
+https://tvpass.org/live/metv-wjlp-new-jerseynew-york/sd
+#EXTINF:-1  group-title="Live" tvg-logo="midatlantic-sports-network" tvg-name="Midatlantic Sports Network",Midatlantic Sports Network
+https://tvpass.org/live/midatlantic-sports-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/MLB_Network_Logo.svg/320px-MLB_Network_Logo.svg.png" tvg-name="MLB Network",MLB Network
+https://tvpass.org/live/MLBNetwork/sd
+#EXTINF:-1  group-title="Live" tvg-logo="monumental-sports-network" tvg-name="Monumental Sports Network",Monumental Sports Network
+https://tvpass.org/live/monumental-sports-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="moremax-eastern" tvg-name="MoreMax Eastern",MoreMax Eastern
+https://tvpass.org/live/MoreMaxEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/14/MotorTrend_logo_2018.svg/320px-MotorTrend_logo_2018.svg.png" tvg-name="Motor Trend HD",Motor Trend HD
+https://tvpass.org/live/Motortrend/sd
+#EXTINF:-1  group-title="Live" tvg-logo="moviemax-max-6-east" tvg-name="MovieMax (Max 6) East",MovieMax (Max 6) East
+https://tvpass.org/live/MovieMaxEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="msg-madison-square-gardens" tvg-name="MSG Madison Square Gardens",MSG Madison Square Gardens
+https://tvpass.org/live/msg-madison-square-gardens/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/MSNBC_2015_logo.svg/320px-MSNBC_2015_logo.svg.png" tvg-name="MSNBC USA",MSNBC USA
+https://tvpass.org/live/MSNBC/sd
+#EXTINF:-1  group-title="Live" tvg-logo="mtv-2-east" tvg-name="MTV 2 East",MTV 2 East
+https://tvpass.org/live/mtv-2-east/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/18/MTV_2021_logo.svg/320px-MTV_2021_logo.svg.png" tvg-name="MTV USA Eastern Feed",MTV USA Eastern Feed
+https://tvpass.org/live/MTVEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6e/National_Geographic_logo.svg/320px-National_Geographic_logo.svg.png" tvg-name="National Geographic US Eastern",National Geographic US Eastern
+https://tvpass.org/live/NationalGeographicEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Nat_Geo_Wild_Logo.svg/320px-Nat_Geo_Wild_Logo.svg.png" tvg-name="National Geographic Wild",National Geographic Wild
+https://tvpass.org/live/NationalGeographicWildEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="new-england-sports-network" tvg-name="New England Sports Network",New England Sports Network
+https://tvpass.org/live/new-england-sports-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="newsmax-tv" tvg-name="NewsMax TV",NewsMax TV
+https://tvpass.org/live/NewsmaxTV/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/NFL_Network_logo.svg/320px-NFL_Network_logo.svg.png" tvg-name="NFL Network",NFL Network
+https://tvpass.org/live/NFLNetwork/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nfl-redzone" tvg-name="NFL RedZone",NFL RedZone
+https://tvpass.org/live/NFLRedZone/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3a/NHL_Network_logo.svg/320px-NHL_Network_logo.svg.png" tvg-name="NHL Network USA",NHL Network USA
+https://tvpass.org/live/NHLNetwork/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nick-jr-east" tvg-name="Nick Jr. East",Nick Jr. East
+https://tvpass.org/live/NickJrEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/320px-Nickelodeon_2009_logo.svg.png" tvg-name="Nickelodeon USA East Feed",Nickelodeon USA East Feed
+https://tvpass.org/live/NickelodeonEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nicktoons-east" tvg-name="Nicktoons East",Nicktoons East
+https://tvpass.org/live/NicktoonsEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="oprah-winfrey-network-usa-eastern" tvg-name="Oprah Winfrey Network USA Eastern",Oprah Winfrey Network USA Eastern
+https://tvpass.org/live/OWNEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="outdoor-channel-us" tvg-name="Outdoor Channel US",Outdoor Channel US
+https://tvpass.org/live/OutdoorChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Oxygen_Media_logo_2017.svg/320px-Oxygen_Media_logo_2017.svg.png" tvg-name="Oxygen Eastern Feed",Oxygen Eastern Feed
+https://tvpass.org/live/OxygenEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="pbs-wnet-new-york-ny" tvg-name="PBS (WNET) New York, NY",NY
+https://tvpass.org/live/WNET/sd
+#EXTINF:-1  group-title="Live" tvg-logo="reelzchannel" tvg-name="ReelzChannel",ReelzChannel
+https://tvpass.org/live/Reelz/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/SEC_Network_Logo_2014.svg/320px-SEC_Network_Logo_2014.svg.png" tvg-name="SEC Network",SEC Network
+https://tvpass.org/live/SECN/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/320px-Showtime.svg.png" tvg-name="Showtime Eastern Feed",Showtime Eastern Feed
+https://tvpass.org/live/ShowtimeEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="showtime-2-eastern" tvg-name="Showtime 2 Eastern",Showtime 2 Eastern
+https://tvpass.org/live/Showtime2East/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sny-sportsnet-new-york-comcast" tvg-name="SNY Sportsnet New York Comcast",SNY Sportsnet New York Comcast
+https://tvpass.org/live/sny-sportsnet-new-york-comcast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="space-city-home-network" tvg-name="Space City Home Network",Space City Home Network
+https://tvpass.org/live/space-city-home-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="spectrum-sportsnet-la" tvg-name="Spectrum SportsNet LA",Spectrum SportsNet LA
+https://tvpass.org/live/spectrum-sportsnet-la/sd
+#EXTINF:-1  group-title="Live" tvg-logo="spectrum-sportsnet" tvg-name="Spectrum Sportsnet Lakers",Spectrum Sportsnet Lakers
+https://tvpass.org/live/spectrum-sportsnet/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Starz_2016.svg/320px-Starz_2016.svg.png" tvg-name="Starz Eastern",Starz Eastern
+https://tvpass.org/live/StarzEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sundancetv-usa-east" tvg-name="SundanceTV USA East",SundanceTV USA East
+https://tvpass.org/live/SundanceTVEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fd/Syfy_Logo.svg/320px-Syfy_Logo.svg.png" tvg-name="Syfy Eastern Feed",Syfy Eastern Feed
+https://tvpass.org/live/SyfyEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/TBS_American_TV_channel_logo.svg/320px-TBS_American_TV_channel_logo.svg.png" tvg-name="TBS East",TBS East
+https://tvpass.org/live/TBSEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="teennick-eastern" tvg-name="TeenNick Eastern",TeenNick Eastern
+https://tvpass.org/live/TeenNickEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="the-cooking-channel" tvg-name="The Cooking Channel",The Cooking Channel
+https://tvpass.org/live/CookingChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="the-tennis-channel" tvg-name="The Tennis Channel",The Tennis Channel
+https://tvpass.org/live/TennisChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/06/The_Weather_Channel_Logo_2005-present.svg/320px-The_Weather_Channel_Logo_2005-present.svg.png" tvg-name="The Weather Channel",The Weather Channel
+https://tvpass.org/live/TheWeatherChannel/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/TLC_Logo.svg/320px-TLC_Logo.svg.png" tvg-name="TLC USA Eastern",TLC USA Eastern
+https://tvpass.org/live/TLCEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tmc-us-eastern-feed" tvg-name="TMC (US) Eastern Feed",TMC (US) Eastern Feed
+https://tvpass.org/live/TheMovieChannelEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/TNT_Logo_2016.svg/320px-TNT_Logo_2016.svg.png" tvg-name="TNT Eastern Feed",TNT Eastern Feed
+https://tvpass.org/live/TNTEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/Travel_Channel_Logo_2018.svg/320px-Travel_Channel_Logo_2018.svg.png" tvg-name="Travel US East",Travel US East
+https://tvpass.org/live/TravelChannelEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="trutv-usa-eastern" tvg-name="truTV USA Eastern",truTV USA Eastern
+https://tvpass.org/live/truTVEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tsn1" tvg-name="TSN1",TSN1
+https://tvpass.org/live/tsn1/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tsn2" tvg-name="TSN2",TSN2
+https://tvpass.org/live/tsn2/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tsn3" tvg-name="TSN3",TSN3
+https://tvpass.org/live/tsn3/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tsn4" tvg-name="TSN4",TSN4
+https://tvpass.org/live/tsn4/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tsn5" tvg-name="TSN5",TSN5
+https://tvpass.org/live/tsn5/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2a/TCM_Logo_2020.svg/320px-TCM_Logo_2020.svg.png" tvg-name="Turner Classic Movies USA",Turner Classic Movies USA
+https://tvpass.org/live/TCMEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tv-land-eastern" tvg-name="TV Land Eastern",TV Land Eastern
+https://tvpass.org/live/tv-land-eastern/sd
+#EXTINF:-1  group-title="Live" tvg-logo="tv-one" tvg-name="TV One",TV One
+https://tvpass.org/live/TVOne/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/73/Univision_2019_logo.svg/320px-Univision_2019_logo.svg.png" tvg-name="Univision Eastern Feed",Univision Eastern Feed
+https://tvpass.org/live/UnivisionEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/d/d0/USA_Network_logo_2016.svg/320px-USA_Network_logo_2016.svg.png" tvg-name="USA Network East Feed",USA Network East Feed
+https://tvpass.org/live/USANetworkEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="vh1-eastern-feed" tvg-name="VH1 Eastern Feed",VH1 Eastern Feed
+https://tvpass.org/live/VH1East/sd
+#EXTINF:-1  group-title="Live" tvg-logo="vice" tvg-name="VICE",VICE
+https://tvpass.org/live/VICETV/sd
+#EXTINF:-1  group-title="Live" tvg-logo="we-womens-entertainment-eastern" tvg-name="WE (Women's Entertainment) Eastern",WE (Women's Entertainment) Eastern
+https://tvpass.org/live/WeTVEast/sd
+#EXTINF:-1  group-title="Live" tvg-logo="wpix-new-york-superstation" tvg-name="WPIX New York (SUPERSTATION)",WPIX New York (SUPERSTATION)
+https://tvpass.org/live/WPIX/sd
+#EXTINF:-1  group-title="Live" tvg-logo="yes-network" tvg-name="Yes Network",Yes Network
+https://tvpass.org/live/yes-network/sd
+#EXTINF:-1  group-title="Live" tvg-logo="fanduel-sports-network-west" tvg-name="Fanduel Sports Network West",Fanduel Sports Network West
+https://tvpass.org/live/fanduel-sports-network-west/sd
+#EXTINF:-1  group-title="Live" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0e/NBA_TV.svg/320px-NBA_TV.svg.png" tvg-name="NBA TV USA",NBA TV USA
+https://tvpass.org/live/NBATV/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nbc-knbc-los-angeles-ca" tvg-name="NBC (KNBC) Los Angeles",NBC (KNBC) Los Angeles
+https://tvpass.org/live/nbc-knbc-los-angeles-ca/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nbc-wnbc-new-york-ny" tvg-name="NBC (WNBC) New York, NY",NY
+https://tvpass.org/live/WNBCDT1/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nbc-sports-bay-area" tvg-name="NBC Sports Bay Area",NBC Sports Bay Area
+https://tvpass.org/live/nbc-sports-bay-area/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nbc-sports-boston" tvg-name="NBC Sports Boston",NBC Sports Boston
+https://tvpass.org/live/nbc-sports-boston/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nbc-sports-california" tvg-name="NBC Sports California",NBC Sports California
+https://tvpass.org/live/nbc-sports-california/sd
+#EXTINF:-1  group-title="Live" tvg-logo="nbc-sports-philadelphia" tvg-name="NBC Sports Philadelphia",NBC Sports Philadelphia
+https://tvpass.org/live/nbc-sports-philadelphia/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-east" tvg-name="Sportsnet (East)",Sportsnet (East)
+https://tvpass.org/live/sportsnet-east/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-360" tvg-name="Sportsnet 360",Sportsnet 360
+https://tvpass.org/live/sportsnet-360/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-one" tvg-name="Sportsnet One",Sportsnet One
+https://tvpass.org/live/sportsnet-one/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-ontario" tvg-name="Sportsnet Ontario",Sportsnet Ontario
+https://tvpass.org/live/sportsnet-ontario/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-pacific" tvg-name="Sportsnet Pacific",Sportsnet Pacific
+https://tvpass.org/live/sportsnet-pacific/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-pittsburgh" tvg-name="Sportsnet Pittsburgh",Sportsnet Pittsburgh
+https://tvpass.org/live/sportsnet-pittsburgh/sd
+#EXTINF:-1  group-title="Live" tvg-logo="sportsnet-west" tvg-name="Sportsnet West",Sportsnet West
+https://tvpass.org/live/sportsnet-west/sd
